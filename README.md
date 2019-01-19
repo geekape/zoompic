@@ -1,2 +1,2 @@
 # zoompic
-:satr:jQuery图片放大插件
+:star:jQuery图片放大插件
